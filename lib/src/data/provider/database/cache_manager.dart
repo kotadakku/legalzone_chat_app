@@ -1,0 +1,10 @@
+enum CacheManagerKey {
+  TOKEN,
+  REFRESH_TOKEN,
+  TOKEN_ADMIN,
+  USER,
+  LANGUAGE,
+  INFORMATION_USER,
+  USERNAME,
+  PASSWORD,
+}
